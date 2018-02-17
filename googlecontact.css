@@ -1,0 +1,43 @@
+body {
+
+	font-family: "Slabo 27px";
+	font-size: 17px;
+	color: white;
+	background-color: black;
+
+}
+
+/*Begin navbar*/
+#brand {
+	margin-left: auto;
+	color: #eeeeee;
+} 
+
+#bootstrap-override >li>a {
+	color: #eeeeee;
+	font-size: 16px;
+}
+
+#bootstrap-override > li > a:hover {
+	color: #919191;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #919191;
+}
+
+.loose>a:link { 
+    color: #15FF00;
+    text-shadow: .5px 1px 0px black; 
+}
+
+.navbar > .container-fluid .navbar-brand {
+	margin-left: auto;
+}
+
+/*End navbar*/
+
+
+iframe {
+	margin-top: -20px;
+}
