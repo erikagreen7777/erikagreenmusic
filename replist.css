@@ -1,0 +1,81 @@
+body {
+    background:  url(http://static.wixstatic.com/media/214ec6_a10a687ada02905899947713544a686d.png_srz_1115_694_85_22_0.50_1.20_0.00_png_srz) no-repeat fixed center;
+  -webkit-background-size: cover;
+        background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 70px 0px;
+  font-family: 'Slabo 27px', serif;
+
+  
+}
+
+/*Begin Navbar*/
+#brand {
+	margin-left: auto;
+	color: #eeeeee;
+}
+
+#bootstrap-override >li>a {
+	color: #eeeeee;
+	font-size: 16px;
+}
+
+#bootstrap-override > li > a:hover {
+	color: #919191;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #919191;
+}
+.container-fluid {
+	background-image: url(https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/14316963_1273121929379243_7848029715531865868_n.jpg?oh=1cde3e85e542d283e8471720f0af6384&oe=587ED58B);
+	background-repeat: no-repeat;
+	font-family: 'Slabo 27px', serif;
+}
+
+.loose>a:link { 
+    color: #15FF00;
+    text-shadow: .5px 1px 0px black; 
+}
+
+/*End Navbar*/
+
+#h1 {
+	font-size: 2.5em;
+	font-family: 'Catamaran', sans-serif;
+}
+
+.loose {
+	font-size: 2em;
+	font-family: 'Catamaran', sans-serif;
+	text-shadow: .5px 1px 0px #B3B3B3; 
+}
+
+
+
+#title {
+	color: #0EA800;
+    background-color: #DAFFD6;
+}
+
+.genres, h5 {
+	text-decoration: underline;
+}
+
+.container {
+	font-family: 'Slabo 27px', serif;
+}
+
+
+.col-lg-12 {
+	 background-color: rgba(245, 245, 245, .6);
+  		padding: 5px 20px;
+}
+
+#black {
+	color: black;
+}
+
+
+
