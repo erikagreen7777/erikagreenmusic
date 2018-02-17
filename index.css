@@ -1,0 +1,43 @@
+body {
+	background-image: url(http://www.seeds4thesoul.com/wp-content/uploads/2015/10/violin-background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Slabo 27px', serif;
+	font-size: 17px;
+	padding-top: 70px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #eeeeee;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #919191;
+}
+.navbar-inverse .navbar-brand {
+	color: #eeeeee;
+}
+.navbar-inverse .navbar-brand:hover {
+	color: #919191;
+}
+.container-fluid {
+	background-image: url(https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/14316963_1273121929379243_7848029715531865868_n.jpg?oh=1cde3e85e542d283e8471720f0af6384&oe=587ED58B);
+	background-repeat: no-repeat;
+}
+.navbar > .container-fluid .navbar-brand {
+	margin-left: auto;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .4em;
+	font-size: 54px;
+	font-family: "Raleway";
+	text-shadow: 2px 1px 1px #eeeeee;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: rgba(224, 223, 215, .9);
+}
