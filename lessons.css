@@ -1,0 +1,114 @@
+body {
+	background-image: url(http://www.hanklane.com/blog/wp-content/uploads/2016/02/Piano1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: "Slabo 27px";
+	font-size: 17px;
+}
+
+/*Begin navbar*/
+#brand {
+	margin-left: auto;
+	color: #eeeeee;
+} 
+
+#bootstrap-override >li>a {
+	color: #eeeeee;
+	font-size: 16px;
+}
+
+#bootstrap-override > li > a:hover {
+	color: #919191;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #919191;
+}
+
+.loose>a:link { 
+    color: #15FF00;
+    text-shadow: .5px 1px 0px black; 
+}
+.container-fluid {
+	background-image: url(https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/14316963_1273121929379243_7848029715531865868_n.jpg?oh=1cde3e85e542d283e8471720f0af6384&oe=587ED58B);
+	background-repeat: no-repeat;
+	font-family: 'Slabo 27px', serif;
+}
+.navbar > .container-fluid .navbar-brand {
+	margin-left: 13px;
+}
+
+/*End navbar*/
+
+h1 {
+text-align: center;
+	text-transform: uppercase;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	letter-spacing: .4em;
+	font-family: "Raleway";
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, .5);
+}
+
+#skype {
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	font-family: "Raleway";
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, .5);
+	color: #09DB17;
+
+}
+
+h2 {
+
+	text-align: center;
+
+	color: black;
+}
+
+#suzuki {
+	border-bottom: 1px solid white;
+	text-align: left;
+	padding-bottom: 10px;
+}
+#skype-header	{
+	color: #09DB17;
+	text-shadow: 1px 1px 0px black;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #09DB17
+	
+}
+
+.top {
+	color: white;
+	font-size: 60px;
+	margin-bottom: 20px;
+	border-bottom: none;
+	padding-top: 10px;
+	text-shadow: 2px 3px 5px black;
+}
+
+.container {
+	position: center;
+	color: black;
+	background: rgba(182, 182, 174, .7);
+	width: 70%;
+	margin-top: 20px;
+	padding: 15px;
+	padding-top: 10px;
+}
+
+#tablehead {
+	font-family: "Raleway";
+	letter-spacing: .1em;
+	border-bottom: 1px solid gray;
+	border-width: 50%;
+}
+
+td #tablehead {
+	padding: 2px;
+}
+
+
